@@ -11,7 +11,7 @@ const chalk = require('chalk');
 
 global.owner = ['6289697920805']
 global.packname = 'Bot WhatsApp'
-global.author = 'Senndev'
+global.author = 'Senn Dev'
 global.botname = 'Senn Bot'
 global.listv = ['•','●','■','✿','▲','➩','➢','➣','➤','✦','✧','△','❀','○','□','♤','♡','◇','♧','々','〆']
 global.tempatDB = 'database.json'
