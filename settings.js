@@ -18,7 +18,7 @@ global.tempatDB = 'database.json'
 global.pairing_code = true
 
 global.fake = {
-	anonim: 'https://telegra.ph/file/95670d63378f7f4210f03.png',
+	anonim: 'https://telegra.ph/file/103cd873c8fb988f21ac3.jpg',
 	thumbnailUrl: 'https://telegra.ph/file/103cd873c8fb988f21ac3.jpg',
 	thumbnail: fs.readFileSync('./src/media/naze.png'),
 	docs: fs.readFileSync('./src/media/fake.pdf'),
